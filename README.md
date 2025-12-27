@@ -37,7 +37,7 @@ It allows the user to:
 --------------------------------------------------
 
 ## Project structure
-
+```
 duplicate-file-finder/
 ├── src/
 │   ├── scanner.py     # Scans folders recursively
@@ -51,6 +51,7 @@ duplicate-file-finder/
 ├── file_organizer.db  # SQLite database (generated at runtime)
 ├── .gitignore
 ├── README.md
+```
 
 --------------------------------------------------
 
