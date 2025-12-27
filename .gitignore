@@ -1,0 +1,13 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite database files
+*.db
+
+# OS junk
+.DS_Store
+Thumbs.db
